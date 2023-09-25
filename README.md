@@ -1,1 +1,1 @@
-# go-htmx-tw
+go run./server.go
